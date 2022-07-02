@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(19,20): error C2061:  error de sintaxis: identificador 'horas'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(19,47): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(19,48): warning C4183:  'num_segundos': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(42,18): error C2365:  'Hora::num_segundos': nueva definición; la definición anterior era 'función miembro'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(19): message :  vea la declaración de 'Hora::num_segundos'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(22,1): error C3867:  'Hora::num_segundos': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(22,1): error C2296:  '/': no es válido; el operando izquierdo es de tipo 'int (__thiscall Hora::* )(void)'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(25,1): error C3867:  'Hora::num_segundos': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(25,1): error C2296:  '%': no es válido; el operando izquierdo es de tipo 'int (__thiscall Hora::* )(void)'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(33,1): error C3867:  'Hora::num_segundos': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(33,1): error C2296:  '+': no es válido; el operando izquierdo es de tipo 'int (__thiscall Hora::* )(void)'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(37,1): error C3867:  'Hora::num_segundos': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(37,1): error C2296:  '-': no es válido; el operando izquierdo es de tipo 'int (__thiscall Hora::* )(void)'
+C:\Users\lenovo\source\repos\sem1HoraDeLaPastilla\sem1HoraDeLaPastilla\Source.cpp(37,1): error C2297:  '-': no es válido; el operando derecho es de tipo 'int (__thiscall Hora::* )(void)'
